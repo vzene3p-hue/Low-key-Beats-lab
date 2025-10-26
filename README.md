@@ -1,2 +1,1 @@
-# Low-key-Beats-lab
-Instrumental Beats 
+README con instrucciones para subir a Vercel
